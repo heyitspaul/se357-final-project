@@ -1,6 +1,6 @@
-# Web-based Engineering Final Project
+# Engineering Web-based Systems Final Project
 
-This was my submission for my Web-based Engineering class' final project, course SE-357 at Monmouth Univeristy.
+This was my submission for my Engineering Web-based Systems class' final project, course SE-357 at Monmouth Univeristy.
 
 The assignment was to create essentially an Amazon clone using PHP and MySQL with multiple user types with different permissions.
 
